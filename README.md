@@ -1,2 +1,2 @@
 # grokking_algorithms
-Exercises for https://www.manning.com/books/grokking-algorithms
+Algorithms presented in book https://www.manning.com/books/grokking-algorithms
